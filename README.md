@@ -4,9 +4,9 @@ A Fabric 1.19 patch for the Minecraft "Commando" exploit, reported [here](https:
 
 ## Installation
 
-Download [BoundlessTranslation.jar][https://github.com/DarwinUang/BoundlessTranslation/releases/download/1.0.0/BoundlessTranslation.jar].
-Install the [Fabric Loader](https://fabricmc.net/use/installer/).
-Add BoundlessTranslation.jar to your `.minecraft/mods` folder.
+- Download [BoundlessTranslation.jar](https://github.com/DarwinUang/BoundlessTranslation/releases/download/1.0.0/BoundlessTranslation.jar).
+- Install the [Fabric Loader](https://fabricmc.net/use/installer/).
+- Add BoundlessTranslation.jar to your `.minecraft/mods` folder.
 
 ## Compiling
 
