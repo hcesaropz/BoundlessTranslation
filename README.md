@@ -1,6 +1,6 @@
 # BoundlessTranslation
 
-A Fabric 1.19 patch for the Minecraft "Commando" exploit, reported [here](https://totalfreedom.me/forum/thread/4834-commando-crash-exploit-patch).
+A patch for the Minecraft "Commando" exploit, reported [here](https://totalfreedom.me/forum/thread/4834-commando-crash-exploit-patch).
 
 ## Installation
 
